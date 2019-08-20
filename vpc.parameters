@@ -1,0 +1,46 @@
+[
+  {
+    "ParameterKey": "CIDRPrivateA",
+    "ParameterValue": "10.168.0.0/22"
+  },
+  {
+    "ParameterKey": "CIDRPrivateC",
+    "ParameterValue": "10.168.8.0/22"
+  },
+  {
+    "ParameterKey": "CIDRPrivateB",
+    "ParameterValue": "10.168.4.0/22"
+  },
+  {
+    "ParameterKey": "EnableVGRouteRestricted",
+    "ParameterValue": "true"
+  },
+  {
+    "ParameterKey": "CIDRVPC",
+    "ParameterValue": "10.168.0.0/19"
+  },
+  {
+    "ParameterKey": "EnableVGRoutePrivate",
+    "ParameterValue": "true"
+  },
+  {
+    "ParameterKey": "CIDRRestrictedA",
+    "ParameterValue": "10.168.16.0/23"
+  },
+  {
+    "ParameterKey": "CIDRRestrictedB",
+    "ParameterValue": "10.168.18.0/23"
+  },
+  {
+    "ParameterKey": "CIDRRestrictedC",
+    "ParameterValue": "10.168.20.0/23"
+  },
+  {
+    "ParameterKey": "CreateVirtualGateway",
+    "ParameterValue": "true"
+  },
+  {
+    "ParameterKey": "DisableIGW",
+    "ParameterValue": "true"
+  }
+]
